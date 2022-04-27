@@ -1,8 +1,8 @@
 ## Hi, I'm Jack!
 
-<p>Welcome to my Github! I am a software engineer, data nerd, classical musician, and tennis fanatic interested in how software meets and adapts to our ever-changing, diverse world.</p><br>
+<p>Welcome to my Github! I am a software engineer, data nerd, classical musician, and tennis fanatic interested in how software meets and adapts to our ever-changing, diverse world.</p>
 
-<p>My passion for programming and data science has kept me busy learning for years with experience mainly in JavaScript, React, Ruby, Rails, SQL and R. My goal is to continue to discover how programs relate to human data, and make software an experience for everyone, even if your last name is Null.</p>
+<p>My journey in programming and data science has kept me always learning with experience in JavaScript, React, Ruby, Rails, SQL and R. I strive to better understand and discover how programs relate to human data, and make software an experience for everyone, even if your last name is Null.</p>
 
 #### My Recent Blog Posts
 
@@ -12,3 +12,6 @@
 * [What the heck is this?](https://medium.com/@jack_pena/what-the-heck-is-this-898901b36ada)
 * [Faker it 'til you make it](https://medium.com/@jack_pena/faker-it-til-you-make-it-5f88e1743bea)
 
+#### Where to find me
+- [Connect with me on LinkedIn!](https://www.linkedin.com/in/jackpena/)
+- [Check out my full Blog](https://medium.com/@jack_pena)
